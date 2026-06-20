@@ -1,0 +1,19 @@
+@font-face{
+    src: url(fonts\Roboto1.ttf);
+    font-family: Roboto1;
+}
+
+@font-face{
+    src: url(fonts\Roboto2.ttf);
+    font-family: Roboto2;
+}
+
+h1{
+    font-family: Roboto1, verdana, arial;
+}
+p{
+    font-family: "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}
